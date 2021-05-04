@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @soufianex98
+- 👋 Hi, I’m Soufiane
 - 👀 I’m interested in mobile and desktop development
 - 🌱 I’m currently learning Flutter framework
 - 💞️ I’m looking to collaborate on mobile projects
