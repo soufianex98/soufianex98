@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Soufiane
-- 👀 I’m interested in mobile and desktop development
-- 🌱 I’m currently learning Flutter framework
-- 💞️ I’m looking to collaborate on mobile projects
+- 👋 Hi, I’m Soufiane.
+- 👀 I’m interested in mobile web and desktop development.
+- 🌱 I’m currently learning Flutter framework.
+- 💞️ I’m looking to collaborate on mobile projects.
 - 📫 How to reach me https://www.linkedin.com/in/soufianex98/
 
 <!---
